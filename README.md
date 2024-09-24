@@ -40,7 +40,7 @@ stat4-project/
 ├── images/                 # Generated images from the analysis
 │   ├── wordcloud_facebook.png
 │   ├── barchart_facebook.png
-│   └── dendrogram_facebook.png
+│   ├── dendrogram_facebook.png
 │   └── topicmodeling_facebook.png
 ```
 
