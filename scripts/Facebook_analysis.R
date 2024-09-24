@@ -1,6 +1,4 @@
-### Code Example
 
-```r
 # Load required libraries
 library(tm)
 library(Rfacebook)
