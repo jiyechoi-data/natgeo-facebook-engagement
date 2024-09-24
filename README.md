@@ -126,4 +126,3 @@ The results of the analysis, including word clouds, dendrograms, and topic model
 ## Project Link
 
 The full code for this project, including data collection, text cleaning, word cloud generation, clustering, and topic modeling, is available on [GitHub](https://github.com/jiyechoi-data/natgeo-facebook-engagement/blob/main/scripts/Facebook_analysis.R).
-```
