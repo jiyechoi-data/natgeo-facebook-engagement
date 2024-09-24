@@ -37,10 +37,10 @@ stat4-project/
 ├── scripts/                # All scripts for analysis
 │   ├── Facebook_analysis.R  # Main R script for Facebook analysis
 ├── images/                 # Generated images from the analysis
-│   ├── wordcloud_facebook.png
 │   ├── barchart_facebook.png
 │   ├── dendrogram_facebook.png
-│   └── topicmodeling_facebook.png
+│   ├── topicmodeling_facebook.png
+│   └── wordcloud_facebook.png
 ```
 
 - **scripts/**: Contains the R scripts used for analysis.
