@@ -31,7 +31,7 @@ The analysis was conducted using **R** and several text mining libraries.
 This repository is organized as follows:
 
 
-```plaintext
+```
 stat4-project/
 │
 ├── README.md               # Overview of your project (this file)
@@ -41,6 +41,7 @@ stat4-project/
 │   ├── wordcloud_facebook.png
 │   ├── barchart_facebook.png
 │   └── dendrogram_facebook.png
+│   └── topicmodeling_facebook.png
 ```
 
 - **scripts/**: Contains the R scripts used for analysis.
