@@ -1,8 +1,6 @@
 # stat4-project
 Facebook “National Geographic” Engagement Analysis
-Here’s the updated **full README.md** without the license section. This is a comprehensive guide to your project:
 
----
 
 ```markdown
 # Facebook "National Geographic" Engagement Analysis
