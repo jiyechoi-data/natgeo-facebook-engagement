@@ -36,9 +36,6 @@ stat4-project/
 ├── README.md               # Overview of your project (this file)
 ├── scripts/                # All scripts for analysis
 │   ├── Facebook_analysis.R  # Main R script for Facebook analysis
-│   └── helper_functions.R   # Any additional R scripts (optional)
-├── data/                   # Data files used for analysis (optional, if any)
-│   └── facebook_posts.csv   # Data file for Facebook posts
 ├── images/                 # Generated images from the analysis
 │   ├── wordcloud_facebook.png
 │   ├── barchart_facebook.png
@@ -46,7 +43,6 @@ stat4-project/
 ```
 
 - **scripts/**: Contains the R scripts used for analysis.
-- **data/**: Contains data used for the analysis (optional, if data is included).
 - **images/**: Contains images generated from the analysis.
 
 ## How to Run the Project
