@@ -31,7 +31,7 @@ The analysis was conducted using **R** and several text mining libraries.
 This repository is organized as follows:
 
 
-```
+```plaintext
 stat4-project/
 │
 ├── README.md               # Overview of your project (this file)
