@@ -36,12 +36,7 @@ corpusLDA <- lexicalize(myCorpus)
 ldaModel <- lda.collapsed.gibbs.sampler(corpusLDA$documents, K=10, vocab=corpusLDA$vocab, burnin=9999, num.iterations=1000, alpha=1, eta=0.1)
 top.words <- top.topic.words(ldaModel$topics, 10, by.score=TRUE)
 
-### 5. **Final Touches**:
-   - **Save Outputs**: You may want to add code that saves the visual outputs (like the word cloud and dendrogram) to image files using `png()` or `ggsave()` so that you can upload them to your GitHub repository.
 
-### Saving Word Cloud and Dendrogram Example:
-
-```r
 # Save Word Cloud
 png("images/wordcloud_facebook.png", width = 800, height = 800)
 wordcloud(words=names(wordFreq), freq=wordFreq, scale=c(5, 0.5), min.freq=40)
